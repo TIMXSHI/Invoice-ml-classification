@@ -312,17 +312,16 @@ Production deployment should include:
 ├── label_encoder.pkl
 ├── requirements.txt
 ├── README.md
-└── training/
-    └── Classification_Model.py
+├── Classification_Model.py
 ```
 
 ---
 
 ## Authors
-
+* Yaozhong Shi (Tim Shi)
 * Marylyn Chen
 * Nivedita Minjur
-* Yaozhong Shi (Tim Shi)
+
 
 Georgia Institute of Technology
 
